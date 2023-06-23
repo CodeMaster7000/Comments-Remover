@@ -1,2 +1,2 @@
 # A sample testing file.
-print("Hello World!")
+print("Hello world!")
